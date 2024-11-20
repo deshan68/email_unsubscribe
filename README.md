@@ -99,7 +99,6 @@ Make sure you have the following installed:
     The frontend should now be running at `http://localhost:3000`.
 
 ---
----
 
 ## How to Use
 
